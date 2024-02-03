@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-02-03T15:10:24.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1rdTmnZsPx9V4r3oPwnl" version="23.1.0" type="google">
+  <diagram name="Страница — 1" id="X99ls0D3MWRfA0Zui11Z">
+    <mxGraphModel dx="830" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-4" value="&lt;div style=&quot;line-height: 220%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;genre_id&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 220%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;genre_name&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="430" width="101" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-9" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;artist_id&lt;br&gt;artist_name&lt;br&gt;genre_id&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-11" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;album_id&lt;br&gt;album_name&lt;br&gt;album_year&lt;br&gt;artist_id&lt;/p&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="440" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-14" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;track_id&lt;br&gt;track_name&lt;br&gt;track_duration&lt;br&gt;album_id&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x2Ser0cTCZVFTN6XSXIn-3" target="x2Ser0cTCZVFTN6XSXIn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.009;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x2Ser0cTCZVFTN6XSXIn-5" target="x2Ser0cTCZVFTN6XSXIn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2Ser0cTCZVFTN6XSXIn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.133;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="x2Ser0cTCZVFTN6XSXIn-6" target="x2Ser0cTCZVFTN6XSXIn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
